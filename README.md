@@ -6,16 +6,16 @@ owner: "Câmara Municipal de São João da Madeira"         # Entre as aspas esc
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.website }}
+# PRR - Municipio da Madeira - Pack 3
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
+- Data de criação: 23/02/2026
+- URL: https://www.cm-sjm.pt/pt/acessibilidade, https://www.museu-do-calcado.pt/pt/acessibilidade, https://www.museudachapelaria.pt/pt/acessibilidade
+- Propriedade: Câmara Municipal de São João da Madeira
+- Candidatura: Prata
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do {{ page.website }}](report.html)
+Consulte aqui a última atualização: [Relatório do PRR - Municipio da Madeira - Pack 3](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
