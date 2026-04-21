@@ -1,5 +1,5 @@
 ---
-website: "PRR - Municipio da Madeira - Pack 3"          # Entre as aspas escreve o nome do website
+website: "PRR - Municipio da Madeira"          # Entre as aspas escreve o nome do website
 date: "23/02/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-sjm.pt/pt/acessibilidade"   # Entre as aspas escreve o domínio do website
 owner: "Câmara Municipal de São João da Madeira"         # Entre as aspas escrever o nome do owner do website
